@@ -1,2 +1,2 @@
 # TestRepository
-Test slack integration
+Test slack integration with gitHub
